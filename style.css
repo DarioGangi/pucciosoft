@@ -60,7 +60,7 @@ footer .row{max-width:980px;margin:0 auto;display:flex;justify-content:space-bet
   .nav img{height:30px}
 }
 
-.hero p .btn{margin-top:26px}
+.hero p .btn{margin:26px 5px 0}
 .features{margin:14px 0 0;padding-left:1.2rem}
 .features li{margin:4px 0}
 .features li::marker{color:var(--green)}
